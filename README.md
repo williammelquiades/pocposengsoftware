@@ -9,6 +9,7 @@ Tools -> NuGet Package Manager -> Package Management Console.
 No console aberto em alguma das janelas digite o comando abaixo:
 Update-Package -reinstall
 
+ref >>
 https://blog.mzikmund.com/2018/02/tip-force-reinstall-nuget-packages/
 https://stackoverflow.com/questions/6876732/how-do-i-get-nuget-to-install-update-all-the-packages-in-the-packages-config
 https://docs.microsoft.com/en-us/nuget/consume-packages/reinstalling-and-updating-packages
@@ -23,7 +24,7 @@ e atualize todos os Pacote.
 Verifique se a versão do chrome instalado na máquina é igual ao versão disponível no gerenciador.
 If not, acessar site ( https://chromedriver.chromium.org/downloads ) e baixar versão correspondente a instalada na máquina
 
-#Composição do projeto
+# Composição do projeto
 
 - Arquitetura Projeto
 	- Linguagem		- [CSharp](https://docs.microsoft.com/pt-br/dotnet/csharp/ "CSharp")
