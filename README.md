@@ -5,9 +5,9 @@
 1.:
 
 No Visual Studio vá em 
-Tools -> NuGet Package Manager -> Package Management Console. 
+Ferramentas  -> Gerrenciador de pacotes do NuGet -> Console de gerenciador de pacotes. 
 No console aberto, digite o comando abaixo:
-Update-Package -reinstall
+- Update-Package -reinstall
 
 2.: 
 
